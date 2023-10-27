@@ -85,6 +85,3 @@ Project Link: [https://github.com/MadhuPrakash270405/python-selenium-automation]
 - [Selenium with Python Documentation](https://selenium-python.readthedocs.io/)
 - [Python.org](https://www.python.org/)
 
----
-
-This README provides a basic guide to get started with the project. Feel free to modify or expand it as your project grows!
